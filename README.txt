@@ -1,0 +1,1 @@
+BIO4PACK V41 FINAL. Upload all extracted files to the GitHub repository root. Install button reads: 📲 Install App. Uses supplied BIO4PACK logo and PWA icons. Laminates and Pouches include two comparison calculators and the established Final Price layout. Password: Success2026. Clear old site data/PWA once after upload.

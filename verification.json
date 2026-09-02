@@ -1,0 +1,25 @@
+{
+  "version": "v41-final-excel-ui-install-icon",
+  "installButton": "\ud83d\udcf2 Install App",
+  "logo": "bio4pack-logo-v16.png",
+  "icons": [
+    "icon-192.png",
+    "icon-512.png"
+  ],
+  "laminates": [
+    "418",
+    "428",
+    "618",
+    "618 W",
+    "819",
+    "821M",
+    "823"
+  ],
+  "pouches": [
+    "Zipper pouch",
+    "Open Pouch"
+  ],
+  "compareBoth": true,
+  "baseGrossProfit": 0.15,
+  "finalPriceLayout": true
+}
